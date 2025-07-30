@@ -1,0 +1,13 @@
+name: auth0-b2b-saas-starter
+id: ari:cloud:compass:d926c5b6-8500-4cc0-ae8b-e0b5c4afa665:component/c0bc404a-5512-475b-abf0-d55726924092/a0432adb-ffb4-4585-82da-4a8f329653fe
+description: The Auth0 SaaS Starter Kit is a full-stack Next.js + Radix UI application designed to help you get started building B2B SaaS with Auth0 by Okta.  It features multi-tenancy support, organization member management and access controls, security policies, self-service Single Sign-On configuration, and more.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
